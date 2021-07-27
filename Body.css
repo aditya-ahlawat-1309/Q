@@ -1,0 +1,31 @@
+.body_element_one{
+padding-left: 3%;
+
+}
+
+.body_element_two-2{
+padding-left: 3.5%;
+
+}
+
+
+.body_element_two{
+margin-left: 5%;
+}
+
+.body_element_heading{
+    font-weight: 600;
+    font-size: 1.25rem;
+    height:10px;
+    justify-content: center;
+  align-items: center;
+}
+
+.body_element_subtext{
+     justify-content: center;
+  align-items: center;
+}
+
+.body_element_simplify{
+    padding-left: 37.5%;
+}

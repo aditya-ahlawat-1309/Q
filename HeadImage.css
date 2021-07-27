@@ -1,0 +1,14 @@
+.parent {
+  position: relative;
+ 
+}
+.image1 {
+  position: relative;
+  margin-left: 1.75%;
+  
+  top:34vh;
+}
+.image2 {
+  position: absolute;
+  
+}

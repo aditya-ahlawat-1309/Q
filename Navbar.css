@@ -1,0 +1,24 @@
+.navbar_page1{
+    background-color: #DCDFE8;
+}
+
+.span_navbar_page1{
+    font-weight: 500;
+    color:black;
+    font-size: 1.2rem;
+    padding-left: 15%;
+}
+
+.navbar_buttons_page1{
+    padding-right: 2.55rem;
+   
+}
+
+.navbar_buttons_page1:hover{
+    background-color: #073762;
+    color:#fff;
+    font-size: x-large;
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+    border-radius: 5%;
+}
